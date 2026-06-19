@@ -6,6 +6,12 @@
     "start": "node ./bin/www"
   },
 
+
+  "engines": {
+    "node": "22.0.0"
+  },
+
+
   "dependencies": {
     "clean-css": "^5.3.3",
     "constantinople": "^4.0.1",
